@@ -1,2 +1,2 @@
 # sudoku
-solving sudoku using CSV algorithms 
+solving sudoku using CSP algorithms 
