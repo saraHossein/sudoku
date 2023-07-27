@@ -1,2 +1,2 @@
 # sudoku
-solving sudoku using AI
+solving sudoku using CSV algorithms 
